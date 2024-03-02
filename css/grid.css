@@ -11,12 +11,7 @@ body{
      margin: 0px; 
      padding: 0px;
 }
-  
-  
-.hidden {
-     display: none;
-}
-  
+   
 .box {
      background-color: powderblue;
      color: rgb(27, 27, 27);
@@ -72,12 +67,14 @@ body{
   .col-start-3	{grid-column-start: 3;}
   .col-start-4	{grid-column-start: 4;}
   .col-start-5	{grid-column-start: 5;}
+
   
   .col-end-1	{grid-column-end: 1;}
   .col-end-2	{grid-column-end: 2;}
   .col-end-3	{grid-column-end: 3;}
   .col-end-4	{grid-column-end: 4;}
   .col-end-5	{grid-column-end: 5;}
+
   
 
      .row-span-1	{grid-row: span 1 / span 1;}
